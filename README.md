@@ -1,1 +1,1 @@
-# MO-Webcam-Capture-Plugin
+# MO-Eye-Tribe
